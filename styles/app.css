@@ -1,0 +1,13 @@
+:root {
+    --green-light: #A3E4D7;
+    --green-medium: #45B39D;
+    --green: #117864;
+
+}
+html{
+    background-color: var(--green-light);
+}
+
+.body {
+    background-color: #45B39D;
+}

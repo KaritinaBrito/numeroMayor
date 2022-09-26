@@ -1,0 +1,19 @@
+{
+  "name": "numeromayor",
+  "version": "1.0.0",
+  "description": "Indica el numero mayor ingresado",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaritinaBrito/numeroMayor.git"
+  },
+  "author": "Karen Brito <savaraguz@.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaritinaBrito/numeroMayor/issues"
+  },
+  "homepage": "https://github.com/KaritinaBrito/numeroMayor#readme"
+}
